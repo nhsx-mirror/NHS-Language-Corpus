@@ -3,11 +3,11 @@
 
 **Need:** Currently there is no large, open, representative UK based medical text database available.  When training NLP models on available datasets (e.g. MedMentions, MIMIC III) issues can include: not picking up domain specific terms (e.g. drug names), get sentiment wrong, fail to understand UK specific abbreviations, or struggle with context due to regional differences.  These issues may not be obvious from surface testing.  This project would seek to build the first steps towards having a data set of United Kingdom focussed medical text sources for the purposes of training NLP models for the NHS.
 
-**urrent Knowledge/Examples & Possible Techniques/Approaches:** Text Extraction, Processing and Curation, Task Definition, Evaluation and Benchmarking.  Uses of more recent work in synthetic medical text generation and open source NLP tools for metadata enrichment.
+**Current Knowledge/Examples & Possible Techniques/Approaches:** Text Extraction, Processing and Curation, Task Definition, Evaluation and Benchmarking.  Uses of more recent work in synthetic medical text generation and open source NLP tools for metadata enrichment.
 
 **Related Previous Internship Projects:** n/a as first year of the scheme.  Possibility of architecture already put in place.
 
-**Enables Future Work:** Envisage this work will require ongoing projects of which this will be the foundation e.g. extra metadata suitable for tasks like negation or temporality identification, automated clinical coding in various settings, synthetic text generation, text translation to SNOMED codes.  Enables any England focussed NLP health analysis.
+**Enables Future Work:** Envisage this work will require ongoing projects of which this will be the foundation e.g. extra metadata suitable for tasks like negation or temporality identification, automated clinical coding in various settings, synthetic text generation, text translation to SNOMED codes.  Enables any UK focussed NLP health analysis.
 
 **Outcome/Learning Objectives:** Curated public facing dataset with relevant text and clinical tagging.  First step is to demonstrate how a small amount of easily accessed data can be extracted and processed.
 
