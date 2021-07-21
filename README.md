@@ -1,3 +1,5 @@
+*Output update coming in September 2021* 
+
 # NHS Language Corpus
 **Keywords:** Natural Language Processing, Healthcare Text, Dataset, Corpus
 
